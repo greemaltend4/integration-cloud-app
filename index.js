@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('Bienvenue dans l Integration Cloud App!');
+  res.send('Welcome to the Integration Cloud App!');
 });
 
 app.listen(PORT, () => {
