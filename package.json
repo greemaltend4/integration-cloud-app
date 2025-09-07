@@ -1,6 +1,6 @@
 {
   "name": "integration-cloud-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Application pour intégrer plusieurs services cloud",
   "main": "index.js",
   "scripts": {
